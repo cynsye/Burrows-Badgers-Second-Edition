@@ -55,4 +55,4 @@ Advancing should be pretty self explanatory, and it should flag an error if a Ba
 ### Notes
 Overall, this is a bit jank. NR doesn't really seem to be designed at all for campaign progression of this nature, so double check your resources whenever you do purchase things, or move them around, and adjust the numbers accordingly.
 
-Also, if you want to switch an item slot from a starting item, to one purchased post-creation of the same type, deselect the item you wish to purchase, refresh, then reselect it to get it to correctly show the Coffer cost.
+Also, if you want to switch an item slot from a starting item, to one purchased post-creation of the same type, deselect the item you wish to purchase, refresh, then reselect it to get it to correctly show the Coffer cost. (Or show all entries, then tick Starting)
